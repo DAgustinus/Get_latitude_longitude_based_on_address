@@ -1,0 +1,6 @@
+Latitude	Longitude	Address	Status
+No Data	No Data	Crescent Lake, Oregon 97425	OVER_QUERY_LIMIT
+No Data	No Data	Culp Creek, Oregon 97427	OVER_QUERY_LIMIT
+No Data	No Data	Curtin, Oregon 97428	OVER_QUERY_LIMIT
+No Data	No Data	saginaw oregon 97472	OVER_QUERY_LIMIT
+No Data	No Data	Thurston, Oregon 97482	OVER_QUERY_LIMIT
