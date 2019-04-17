@@ -11,8 +11,8 @@ complete = 0
 #######Insert the new API key below if needed#######
 #####################API Key########################
 API_key = 'AIzaSyDG_k4QAY3HOXWXR8yz6iYP7XSCv7h-saw'#
-input_file = "1.address_list.txt"				  #
-output_name = '3.output_list.txt'				  #
+input_file = "1.address_list.txt"		   #
+output_name = '3.output_list.txt'		   #
 ####################################################
 
 starter = 'https://maps.googleapis.com/maps/api/geocode/json?address='
